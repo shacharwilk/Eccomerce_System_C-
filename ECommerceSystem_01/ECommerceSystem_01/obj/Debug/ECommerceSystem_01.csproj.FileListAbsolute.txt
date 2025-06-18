@@ -1,0 +1,14 @@
+C:\Users\shachar\source\repos\ECommerceSystem_01\ECommerceSystem_01\bin\Debug\ECommerceSystem_01.exe.config
+C:\Users\shachar\source\repos\ECommerceSystem_01\ECommerceSystem_01\bin\Debug\ECommerceSystem_01.exe
+C:\Users\shachar\source\repos\ECommerceSystem_01\ECommerceSystem_01\bin\Debug\ECommerceSystem_01.pdb
+C:\Users\shachar\source\repos\ECommerceSystem_01\ECommerceSystem_01\obj\Debug\ECommerceSystem_01.csproj.AssemblyReference.cache
+C:\Users\shachar\source\repos\ECommerceSystem_01\ECommerceSystem_01\obj\Debug\ECommerceSystem_01.csproj.CoreCompileInputs.cache
+C:\Users\shachar\source\repos\ECommerceSystem_01\ECommerceSystem_01\obj\Debug\ECommerceSystem_01.exe
+C:\Users\shachar\source\repos\ECommerceSystem_01\ECommerceSystem_01\obj\Debug\ECommerceSystem_01.pdb
+C:\Users\Aviad\OneDrive\שולחן העבודה\ECommerceSystem_01\ECommerceSystem_01\bin\Debug\ECommerceSystem_01.exe.config
+C:\Users\Aviad\OneDrive\שולחן העבודה\ECommerceSystem_01\ECommerceSystem_01\bin\Debug\ECommerceSystem_01.exe
+C:\Users\Aviad\OneDrive\שולחן העבודה\ECommerceSystem_01\ECommerceSystem_01\bin\Debug\ECommerceSystem_01.pdb
+C:\Users\Aviad\OneDrive\שולחן העבודה\ECommerceSystem_01\ECommerceSystem_01\obj\Debug\ECommerceSystem_01.csproj.AssemblyReference.cache
+C:\Users\Aviad\OneDrive\שולחן העבודה\ECommerceSystem_01\ECommerceSystem_01\obj\Debug\ECommerceSystem_01.csproj.CoreCompileInputs.cache
+C:\Users\Aviad\OneDrive\שולחן העבודה\ECommerceSystem_01\ECommerceSystem_01\obj\Debug\ECommerceSystem_01.exe
+C:\Users\Aviad\OneDrive\שולחן העבודה\ECommerceSystem_01\ECommerceSystem_01\obj\Debug\ECommerceSystem_01.pdb
